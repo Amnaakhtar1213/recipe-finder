@@ -35,13 +35,13 @@ A simple web application that lets users search for recipes using TheMealDB API.
 ## SCREENSHOT 🖼️
 
 Here's the application look like
-[Click here for screenshot](ss.png)
+- [Click here for screenshot](ss.png)
 
 -----------------------------
 
 ## LIVE DEMO 🌐 
 
-- [Click here for live demo]()
+- [Click here for live demo](https://amnaakhtar1213.github.io/recipe-finder/)
 
 ----------------------------
 
