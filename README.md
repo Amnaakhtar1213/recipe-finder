@@ -20,7 +20,7 @@ A simple web application that lets users search for recipes using TheMealDB API.
 
 --------------------------------
 
-## Technology
+## Technology 🛠️
  1. HTML5
  2. CSS3 (custom styling with variables, responsive grid)
  3. JavaScript (ES6+)
@@ -28,7 +28,7 @@ A simple web application that lets users search for recipes using TheMealDB API.
 
 ----------------------------------
 
-## How to run 
+## How to run ✨
 
 ----------------------------
 
